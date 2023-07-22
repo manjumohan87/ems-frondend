@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom'
 function Hometable() {
     return (
         <div className='container mt-5'>
+            <h1>All Employee List</h1>
             <Row>
                 <div className="col">
                     <Card className='shadow'>
